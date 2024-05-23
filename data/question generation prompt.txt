@@ -1,0 +1,10 @@
+I am a professor of xxxxx and need to test students' understanding of xxxxx by asking a series of challenging questions. These questions require respondents to list entities that they know meet a series of certain conditions. You need to create more different and diverse challenging questions according to the requirements. Read the following requirements carefully. I'm going to tip $100 for a perfect list of questions!
+The questions should meet the following criteria:
+1. Each question should start with "Tell me a list of";
+2. To make the question challenging enough, each question should contain multiple limiting conditions.
+3. The requirement of the question should not involve specific numbers (which makes the question too hard to answer) or vague descriptions (which makes it hard to evaluate the truthfulness of the answer), like "long lifespan", "quick speed", "popular", and "important";
+4. The boundaries of the question should be very clear, making it easy to evaluate its truthfulness;
+5. The answers to the questions should be consistent through a relatively long period of time and not change frequently, for example, yearly.
+   Refer to the style in the following two examples from an exemplary subject, biology.
+   Question 1: Tell me a list of land animals unique to China.
+   Question 2: Tell me a list of fruits that grow on trees in tropical regions.
